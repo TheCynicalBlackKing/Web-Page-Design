@@ -5,7 +5,9 @@ body
 
 h1 
 	{
-		color: #e5e5e5;
+		color: #e5e5e5
+		
+		text-align: left;
 	}
 
 p 
