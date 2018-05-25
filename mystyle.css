@@ -16,10 +16,12 @@ p
 	{
 		color: #efefef;
 		text-indent: 40px;
+		text-size: 12px;
 	}	
 
 ol,ul
 	{
 		background-color: #282828;
 		color: #efefef;
+		text-size: 12px;
 	}	
