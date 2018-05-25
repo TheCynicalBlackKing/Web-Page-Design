@@ -1,22 +1,18 @@
-//Modifies the first three headers to be a white color
 h1,h2,h3	
 	{
-		color: #f7f7f7;
+		color:#f7f7f7;
 	}
 
-//Modifies the last three headers to be a darker white than the first three
 h4,h5,h6
 	{
 		color:#e5e5e5;
 
 	}
-//Modifies the page's background colour to be a dark grey
 body 
 	{
 		background-color: #282828;
 	}
 
-//Modifies the colours of paragraphs,list items, unordered lists, and ordered lists to be a white color.
 p
 	{
 		color: #efefef;
