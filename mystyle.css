@@ -17,7 +17,7 @@ body
 	}
 
 //Modifies the colours of paragraphs,list items, unordered lists, and ordered lists to be a white color.
-p,li,ul,ol
+p
 	{
 		color: #efefef;
 	}	
