@@ -1,11 +1,13 @@
 h1,h2,h3	
 	{
 		color:#f7f7f7;
+		text-shadow: 3px 2px #f4f4f4;
 	}
 
 h4,h5,h6
 	{
 		color:#e5e5e5;
+		text-shadow: 3px 2px #e2e2e2;
 
 	}
 body 
@@ -16,6 +18,8 @@ body
 p
 	{
 		color: #efefef;
+		text-indent: 40px;
+		line-height: 5px;
 	}	
 
 ol,ul
